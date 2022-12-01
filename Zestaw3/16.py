@@ -1,0 +1,1 @@
+#no to kurwa szanujmy sie

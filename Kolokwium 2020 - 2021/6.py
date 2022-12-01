@@ -1,0 +1,1 @@
+#to jakby tu hard, tego nie bylo jakby, dziewczyno helooooł

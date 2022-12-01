@@ -1,0 +1,1 @@
+#to se damy siana bo izi

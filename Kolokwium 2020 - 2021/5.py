@@ -1,0 +1,1 @@
+#to juz zrobilem jakby lol
