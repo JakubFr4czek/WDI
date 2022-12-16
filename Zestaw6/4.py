@@ -1,0 +1,1 @@
+#to łatwe to nie będziemy robić

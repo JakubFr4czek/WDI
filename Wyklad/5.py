@@ -17,5 +17,5 @@ def qs(T,l,p): # qs(T, 0, N - 1)
             i += 1
             j -= 1
 
-        if(l < j): qs(T, l, j)
+        if( l < j): qs(T, l, j)
         if(i < p): qs(T, i, p) 
