@@ -6,7 +6,7 @@ enum Festables : int{
 
 };
 
- //tak
+ 
 //Nie jestes bossem
 int main() {
 
